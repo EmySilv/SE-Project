@@ -1,0 +1,54 @@
+Projeto Lamparina:                                                                                                 
+
+/* 
+   - CAPA
+   - FOLHA DE ROSTO
+   - SUMÁRIO
+
+   1.INTRODUÇÃO:
+   1.1 OBJETIVOS GERAIS
+   1.2	   '' ESPECIFICOS
+   1.3 JUSTIFICATIVA
+
+
+   2.DESENVOLVIMENTO:
+   2.1 LEVANTAMENTO E REFERENCIAÇÃO DE REQUISITOS
+   2.1.1 REQUISITOS FUNCIONAIS
+   2.1.2 REQUISITOS NÃO FUNCIONAIS
+   2.2 PROTOTIPAGEM
+   2.3 DIAGRAMAS UML
+
+   3.FUNDAMENTAÇÃO TEÓRICA:
+
+   4. CONCLUSÃO:
+
+   - REFERENCIAS
+
+   - APÊNDICES 
+
+   - ANEXOS
+*/
+
+-> Problemas:
+
+-> Soluções:
+
+-> Nomes: Emilly Vitória, Gabriel Soares, Marlon Valeriano, João Gabriel da Silva;
+
+-> Componentes necessários: Arduino Nano; Detector de Som; Fonte de 5 volts(ou de 12 volts com alternador); Fita de led(com 60 leds por metro); Jarro de vidro(grande); Cano PVC (fino).
+
+->Esbolço:
+
+-> Publico alvo: Pessas entre 12 e 65 anos;
+
+-> Questionário (5 à 10 perguntas):
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+-> Entrevista ao publico:
