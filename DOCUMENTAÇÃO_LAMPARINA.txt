@@ -1,47 +1,88 @@
-Projeto Lamparina:                                                                                                 
+Projeto Lamparina:                                                                                      
+     
 
 /* 
    - CAPA
    - FOLHA DE ROSTO
-   - SUMÁRIO
+   - SUMÃRIO
 
-   1.INTRODUÇÃO:
-   1.1 OBJETIVOS GERAIS
+   1.INTRODUÃ‡ÃƒO:
+   1.1 OBJETIVOS GERAIS(Problemas; SoluÃ§Ãµes)
    1.2	   '' ESPECIFICOS
    1.3 JUSTIFICATIVA
 
 
-   2.DESENVOLVIMENTO:
-   2.1 LEVANTAMENTO E REFERENCIAÇÃO DE REQUISITOS
+   2.DESENVOLVIMENTO:(TEXTO INTRODUTÃ“RIO, 	
+
+Ferramentas: Arduino Nano; Detector de Som; Fonte 	de 5 volts
+
+(ou de 12 volts com alternador); Fita de led(com 60 	leds por 	
+
+metro); Jarro de vidro(grande); Cano PVC (fino).)
+   2.1 LEVANTAMENTO E REFERENCIAÃ‡ÃƒO DE REQUISITOS
    2.1.1 REQUISITOS FUNCIONAIS
-   2.1.2 REQUISITOS NÃO FUNCIONAIS
+   2.1.2 REQUISITOS NÃƒO FUNCIONAIS
    2.2 PROTOTIPAGEM
    2.3 DIAGRAMAS UML
 
-   3.FUNDAMENTAÇÃO TEÓRICA:
+   3.FUNDAMENTAÃ‡ÃƒO TEÃ“RICA:
 
-   4. CONCLUSÃO:
+   4. CONCLUSÃƒO:
 
    - REFERENCIAS
 
-   - APÊNDICES 
+   - APÃŠNDICE A:
+_____________________________
+LEVANTAMENTO DE REQUISITOS:
 
-   - ANEXOS
-*/
+1. REQUISITOS FUNCIONAIS.
 
--> Problemas:
+	1.1[RF001]
+	Prioridade:
+	DescriÃ§Ã£o:
 
--> Soluções:
+	1.2[RF002]
+	Prioridade:
+	DescriÃ§Ã£o:
 
--> Nomes: Emilly Vitória, Gabriel Soares, Marlon Valeriano, João Gabriel da Silva;
+	1.3[RF003]
+	Prioridade:
+	DescriÃ§Ã£o:
 
--> Componentes necessários: Arduino Nano; Detector de Som; Fonte de 5 volts(ou de 12 volts com alternador); Fita de led(com 60 leds por metro); Jarro de vidro(grande); Cano PVC (fino).
+	1.4[RF004]
+	Prioridade:
+	DescriÃ§Ã£o:
 
-->Esbolço:
+	1.5[RF005]
+	Prioridade:
+	DescriÃ§Ã£o:
 
--> Publico alvo: Pessas entre 12 e 65 anos;
 
--> Questionário (5 à 10 perguntas):
+2. REQUISITOS NÃƒO-FUNCIONAIS.
+	
+	2.1 [RNF001]
+	Prioridade:
+
+	2.2 [RNF002] 
+	Prioridade:
+
+	2.3 [RNF003]
+	Prioridade:
+
+	2.4 [RNF004]
+	Prioridade:
+
+	2.5 [RNF005]
+	Prioridade:
+
+______________________________
+   
+
+
+   - APÃŠNDICE B:
+_______________________________
+QUESTIONÃRIO:
+QuestionÃ¡rio (5 Ã  10 perguntas):
 1.
 2.
 3.
@@ -50,5 +91,26 @@ Projeto Lamparina:
 6.
 7.
 8.
+_______________________________
 
--> Entrevista ao publico:
+
+
+   - APÃŠNDICE C:
+_______________________________
+ENTREVISTA  AO PÃšBLICO:
+
+_______________________________
+
+
+
+   - APÃŠNDICE D: 
+_______________________________
+ESBOLÃ‡O:
+
+_______________________________
+
+
+   - ANEXOS
+*/
+
+-> Publico alvo: Pessas entre 12 e 65 anos;
