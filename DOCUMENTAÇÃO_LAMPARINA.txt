@@ -29,7 +29,10 @@ metro); Jarro de vidro(grande); Cano PVC (fino).)
 
    4. CONCLUSÃO:
 
-   - REFERENCIAS
+   - REFERENCIAS:
+   https://flaviobabos.com.br/melhores-projetos-com-arduino/ (Acesso em:15/06/2022 - 18:20)
+   
+   https://www.instructables.com/Music-Reactive-Desk-Lamp/ (Acesso em:15/06/2022 - 18:25)
 
    - APÊNDICE A:
 _____________________________
